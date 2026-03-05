@@ -44,7 +44,7 @@ translation=Перевірка орфографії
 
 [setting.editor.option-spellcheck-description]
 original=Turn on the spellchecker.
-translation=Вмикає перевірку орфографії. Наразі працює лише з англійською (США).
+translation=Умикає перевірку орфографії. Наразі працює лише з англійською (США).
 
 [setting.editor.spellcheck-languages]
 original=Spellcheck languages
@@ -64,7 +64,7 @@ translation=Словник
 
 [setting.editor.spellcheck-dict-empty]
 original=The spellcheck dictionary is empty.
-translation=Словник порожній
+translation=Словник порожній.
 
 [setting.editor.option-show-inline-title]
 original=Inline title
@@ -72,7 +72,7 @@ translation=Назва в рядку
 
 [setting.editor.option-show-inline-title-description]
 original=Display the filename as an editable title inline with the file contents.
-translation=Відображає ім'я файлу у вигляді заголовка з можливістю редагування в одному рядку з вмістом файлу.
+translation=Показувати ім'я файлу як заголовок з можливістю редагування в одному рядку з вмістом файлу.
 
 [setting.editor.option-readable-line-length]
 original=Readable line length
@@ -80,15 +80,15 @@ translation=Обмежити максимальну довжину рядка
 
 [setting.editor.option-readable-line-description]
 original=Limit maximum line length. Less content fits onscreen, but long blocks of text are more readable.
-translation=Обмежити максимальну довжину рядка. Підвищує зручність читання великих текстів, але зменшує кількість інформації, що вміщає екран.
+translation=Обмежити максимальну довжину рядка. Підвищує зручність читання великих текстів, але зменшує кількість інформації, яка вміщається на екрані.
 
 [setting.editor.option-strict-line-break]
 original=Strict line breaks
-translation=Подвійний дільник рядків
+translation=Подвійний розрив рядків
 
 [setting.editor.option-strict-line-break-description]
 original=Markdown specs ignore single line breaks in reading view. Turn this off to make single line breaks visible.
-translation=Ігнорувати одинарні дільники рядків у режимі читання відповідно до стандарту Markdown. Вимкніть для показу одинарних дільників у режимі читання.
+translation=Ігнорувати одинарні розриви рядків у режимі читання відповідно до стандарту Markdown. Вимкніть для показу одинарних дільників у режимі читання.
 
 [setting.editor.option-properties-in-document]
 original=Properties in document
@@ -96,7 +96,7 @@ translation=Властивості у документі
 
 [setting.editor.option-properties-in-document-description]
 original=Choose how properties are displayed at the top of notes. Select “source” to show properties as raw YAML.
-translation=Оберіть, яким чином показувати властивості у редакторі. Виберіть "джерельний код", щоб показувати їх у вигляді YAML.
+translation=Оберіть, яким чином показувати властивості в редакторі. Виберіть "джерельний код", щоб показувати їх у вигляді YAML.
 
 [setting.editor.option-properties-hidden]
 original=Hidden
@@ -140,7 +140,7 @@ translation=Згортати заголовки
 
 [setting.editor.option-fold-heading-description]
 original=Lets you fold all content under a heading.
-translation=Згортає весь текст під заголовками
+translation=Згортає весь текст під заголовками.
 
 [setting.editor.option-fold-indent]
 original=Fold indent
@@ -148,7 +148,7 @@ translation=Згортати відступи
 
 [setting.editor.option-fold-indent-description]
 original=Lets you fold part of an indentation, such as lists.
-translation=Згортає текст з однаковими відступами, наприклад списки.
+translation=Згортає текст з однаковими відступами, як-от списки.
 
 [setting.editor.option-default-new-tab-view]
 original=Default view for new tabs
@@ -156,7 +156,7 @@ translation=Стандартний вигляд для нових вкладок
 
 [setting.editor.option-default-new-tab-view-description]
 original=The default view that a new Markdown tab gets opened in.
-translation=Вид за замовчуванням для нової Markdown вкладки
+translation=Вид за замовчуванням для нової вкладки Markdown.
 
 [setting.editor.option-default-new-tab-view-editing]
 original=Editing view
@@ -172,7 +172,7 @@ translation=Завжди фокусувати нові вкладки
 
 [setting.editor.option-open-tab-in-foreground-description]
 original=When you open a link in a new tab, switch to it immediately.
-translation=Коли ви відкриваєте посиланя в новій вкладці, одразу переходьте на неї.
+translation=Коли ви відкриваєте посиланя в новій вкладці, то одразу переходитимете на неї.
 
 [setting.editor.option-default-editing-mode]
 original=Default editing mode
@@ -188,7 +188,7 @@ translation=Джерельний режим
 
 [setting.editor.option-default-editing-mode-live-preview]
 original=Live Preview
-translation=Динамічне відображення
+translation=Динамічний показ
 
 [setting.editor.option-show-line-number]
 original=Line numbers
