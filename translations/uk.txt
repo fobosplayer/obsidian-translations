@@ -64,7 +64,7 @@ translation=Словник
 
 [setting.editor.spellcheck-dict-empty]
 original=The spellcheck dictionary is empty.
-translation=Словник порожній
+translation=Словник порожній.
 
 [setting.editor.option-show-inline-title]
 original=Inline title
